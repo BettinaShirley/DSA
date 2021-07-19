@@ -13,7 +13,7 @@ void linear_search(int arr[], int n, int val)
     }
     if(ind != -1)
     {
-        printf("The value has been found !");
+        printf("The value has been found !\n");
         printf("Value located at index : %d",ind);
     }
     else
